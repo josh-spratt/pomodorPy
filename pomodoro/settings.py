@@ -1,4 +1,4 @@
 """Timer configuration defaults."""
 
-FOCUS_MINUTES = 1
-BREAK_MINUTES = 1
+FOCUS_MINUTES = 25
+BREAK_MINUTES = 5
